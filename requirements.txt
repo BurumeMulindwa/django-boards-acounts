@@ -17,7 +17,7 @@ reverse==0.1.0
 self==2019.4.13
 six==1.14.0
 sqlparse==0.3.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.8
 virtualenvwrapper-win==1.2.6
 zipp==2.1.0
